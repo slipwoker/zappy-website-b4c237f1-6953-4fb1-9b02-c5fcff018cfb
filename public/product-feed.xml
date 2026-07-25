@@ -4,6 +4,19 @@
     <title>Top10</title>
     <link>https://example.com</link>
     <description>Product feed for Top10</description>
-    <lastBuildDate>Sat, 25 Jul 2026 16:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 16:55:04 GMT</lastBuildDate>
+    <item>
+      <g:id>ce33356f-3a2f-4990-8e89-ba61ee30300e</g:id>
+      <g:title>RETRO</g:title>
+      <g:description>RETRO</g:description>
+      <g:link>https://example.com/product/retro-a6htqi</g:link>
+      <g:image_link>https://example.com/assets/product-1784997965885-7euvfd.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784997972031-8zukrj.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>AC Milan retro</g:brand>
+    </item>
   </channel>
 </rss>

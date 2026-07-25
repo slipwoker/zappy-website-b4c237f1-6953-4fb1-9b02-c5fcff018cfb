@@ -1,8 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-25T16:43:22.524Z",
+  "generated_at": "2026-07-25T16:55:04.201Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "ce33356f-3a2f-4990-8e89-ba61ee30300e",
+      "slug": "retro-a6htqi",
+      "name": "RETRO",
+      "name_translations": {
+        "en": "RETRO",
+        "he": "רטרו"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "AC Milan retro",
+      "price": 99,
+      "base_price": 150,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784997965885-7euvfd.webp",
+        "https://example.com/assets/product-1784997972031-8zukrj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/retro-a6htqi",
+      "categories": [],
+      "updated_at": "2026-07-25T16:52:03.362Z"
+    }
+  ]
 }
