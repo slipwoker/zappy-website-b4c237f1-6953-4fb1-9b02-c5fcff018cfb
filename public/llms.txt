@@ -1,0 +1,108 @@
+# Top10 — Generative Engine Optimization Map
+
+> An online store specializing in football jerseys, catering to football fans and enthusiasts. The store focuses on selling football shirts, likely including club and national team jerseys.
+
+---
+
+## Pages
+
+### בית
+https://top10-b4c237f1.zappy5.app
+חנות אונליין מובילה לחולצות כדורגל מקוריות. מצא את הטופ 10 דיסני פלוס של עולם הג&#39;רזים - מאוספי מועדונים ועד נבחרות. היכנס עכשיו להלביש את התשוקה שלך!
+
+### תרבות ג'רזי
+https://top10-b4c237f1.zappy5.app/jersey-culture
+כל מה שרצית לדעת על תרבות חולצות הכדורגל: מההיסטוריה ועד האוספים הנדירים. גלה את הסיפורים מאחורי טופ 10 דיסני פלוס של עיצובי הג&#39;רזים האייקוניים. כנס למסע מרתק!
+
+### סיפורי אוהדים
+https://top10-b4c237f1.zappy5.app/fan-stories
+האוהדים משתפים את רגעי השיא עם חולצות הכדורגל האהובות עליהם. קרא סיפורים מרגשים שמביאים את טופ 10 דיסני פלוס לחיים. שתף גם את הסיפור שלך עוד היום!
+
+### אודות
+https://top10-b4c237f1.zappy5.app/about
+הסיפור שלנו מתחיל באהבה לכדורגל ורצון להביא לכם את הטופ 10 דיסני פלוס של חולצות הספורט. גלו מי אנחנו, מה מניע אותנו, ולמה אנחנו הבחירה מספר אחת לאוהדים אמיתיים.
+
+### צור קשר
+https://top10-b4c237f1.zappy5.app/contact
+יש שאלה על הג&#39;רזי המושלם? צרו קשר עם צוות המומחים שלנו ונעזור לכם למצוא את טופ 10 דיסני פלוס של החולצות המותאמות אישית. פנו עכשיו ונחזור אליכם במהירות!
+
+### Products
+https://top10-b4c237f1.zappy5.app/products
+המוצרים שלנו - Top10
+
+### Cart
+https://top10-b4c237f1.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://top10-b4c237f1.zappy5.app/checkout
+תשלום
+
+### Login
+https://top10-b4c237f1.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://top10-b4c237f1.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://top10-b4c237f1.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://top10-b4c237f1.zappy5.app/product/:slug
+פרטי המוצר - Top10
+
+### Category
+https://top10-b4c237f1.zappy5.app/category/:slug
+מוצרים - Top10
+
+### תודה - Top10
+https://top10-b4c237f1.zappy5.app/thank-you
+Top10 - תודה - Top10
+
+## Legal & Policy
+
+### Privacy Policy
+https://top10-b4c237f1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://top10-b4c237f1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://top10-b4c237f1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Top10
+An online store specializing in football jerseys, catering to football fans and enthusiasts. The store focuses on selling football shirts, likely including club and national team jerseys.
+
+## Target Audience
+- חובבי כדורגל מושבעים
+- שחקני כדורגל צעירים
+- מבקרי אירועי ספורט
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://top10-b4c237f1.zappy5.app/sitemap.xml
+- Robots: https://top10-b4c237f1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://top10-b4c237f1.zappy5.app/llms-full.txt
+- Products (JSON): https://top10-b4c237f1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://top10-b4c237f1.zappy5.app/product-feed.xml
