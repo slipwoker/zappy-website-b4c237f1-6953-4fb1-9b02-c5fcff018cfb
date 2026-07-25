@@ -2,13 +2,13 @@
 
 An online store specializing in football jerseys, catering to football fans and enthusiasts. The store focuses on selling football shirts, likely including club and national team jerseys.
 
-Source: https://top10-b4c237f1.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את טופ 10 חולצות הכדורגל הנמכרות — Top10
 
-URL: https://top10-b4c237f1.zappy5.app
+URL: https://example.com
 Description: חנות אונליין מובילה לחולצות כדורגל מקוריות. מצא את הטופ 10 דיסני פלוס של עולם הג&#39;רזים - מאוספי מועדונים ועד נבחרות. היכנס עכשיו להלביש את התשוקה שלך!
 
 גלה את טופ 10 חולצות הכדורגל הנמכרות — Top10
@@ -454,7 +454,7 @@ Description: חנות אונליין מובילה לחולצות כדורגל מ
 
 ## צלול לתרבות הג&#39;רזי עם הטופ 10 הכי חמים — Top10
 
-URL: https://top10-b4c237f1.zappy5.app/jersey-culture
+URL: https://example.com/jersey-culture
 Description: כל מה שרצית לדעת על תרבות חולצות הכדורגל: מההיסטוריה ועד האוספים הנדירים. גלה את הסיפורים מאחורי טופ 10 דיסני פלוס של עיצובי הג&#39;רזים האייקוניים. כנס למסע מרתק!
 
 צלול לתרבות הג'רזי עם הטופ 10 הכי חמים — Top10
@@ -808,7 +808,7 @@ Description: כל מה שרצית לדעת על תרבות חולצות הכדו
 
 ## סיפורי אוהדים: הטופ 10 שכולם מדברים עליו — Top10
 
-URL: https://top10-b4c237f1.zappy5.app/fan-stories
+URL: https://example.com/fan-stories
 Description: האוהדים משתפים את רגעי השיא עם חולצות הכדורגל האהובות עליהם. קרא סיפורים מרגשים שמביאים את טופ 10 דיסני פלוס לחיים. שתף גם את הסיפור שלך עוד היום!
 
 סיפורי אוהדים: הטופ 10 שכולם מדברים עליו — Top10
@@ -1120,7 +1120,7 @@ Description: האוהדים משתפים את רגעי השיא עם חולצו�
 
 ## הכירו את החזון שמאחורי טופ 10 ג&#39;רזים — Top10
 
-URL: https://top10-b4c237f1.zappy5.app/about
+URL: https://example.com/about
 Description: הסיפור שלנו מתחיל באהבה לכדורגל ורצון להביא לכם את הטופ 10 דיסני פלוס של חולצות הספורט. גלו מי אנחנו, מה מניע אותנו, ולמה אנחנו הבחירה מספר אחת לאוהדים אמיתיים.
 
 הכירו את החזון שמאחורי טופ 10 ג'רזים — Top10
@@ -1503,7 +1503,7 @@ Top10 נולד מתוך אהבה אמיתית לכדורגל. אנחנו לא ס
 
 ## דברו איתנו על טופ 10 החולצות שלכם — Top10
 
-URL: https://top10-b4c237f1.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על הג&#39;רזי המושלם? צרו קשר עם צוות המומחים שלנו ונעזור לכם למצוא את טופ 10 דיסני פלוס של החולצות המותאמות אישית. פנו עכשיו ונחזור אליכם במהירות!
 
 דברו איתנו על טופ 10 החולצות שלכם — Top10
@@ -1924,7 +1924,7 @@ Top10 מתמחה בחולצות כדורגל מקוריות מכל הליגות 
 
 ## מוצרים
 
-URL: https://top10-b4c237f1.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Top10
 
 מוצרים - Top10
@@ -2318,7 +2318,7 @@ Description: המוצרים שלנו - Top10
 
 ## עגלת קניות
 
-URL: https://top10-b4c237f1.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Top10
@@ -2554,7 +2554,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://top10-b4c237f1.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Top10
@@ -2976,7 +2976,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://top10-b4c237f1.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Top10
@@ -3219,7 +3219,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://top10-b4c237f1.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Top10
@@ -3617,7 +3617,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://top10-b4c237f1.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Top10
@@ -3877,7 +3877,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://top10-b4c237f1.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Top10
@@ -4166,7 +4166,7 @@ Top10 מחויבת לשביעות רצון לקוחותיה. מדיניות זו
 
 ## פרטי המוצר
 
-URL: https://top10-b4c237f1.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Top10
 
 פרטי המוצר - Top10
@@ -4404,7 +4404,7 @@ Description: פרטי המוצר - Top10
 
 ## מוצרים
 
-URL: https://top10-b4c237f1.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Top10
 
 מוצרים - Top10
@@ -4666,7 +4666,7 @@ Description: מוצרים - Top10
 
 ## מדיניות פרטיות
 
-URL: https://top10-b4c237f1.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4930,7 +4930,7 @@ Top10 ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://top10-b4c237f1.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5203,7 +5203,7 @@ Top10 מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://top10-b4c237f1.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5495,7 +5495,7 @@ Top10 מספקת Sports Apparel E-commerce דרך האתר. השירותים כ�
 
 ## תודה - Top10
 
-URL: https://top10-b4c237f1.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Top10 - תודה - Top10
 
 תודה - Top10

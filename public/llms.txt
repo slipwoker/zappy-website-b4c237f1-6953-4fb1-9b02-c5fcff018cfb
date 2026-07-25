@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://top10-b4c237f1.zappy5.app
+https://example.com
 חנות אונליין מובילה לחולצות כדורגל מקוריות. מצא את הטופ 10 דיסני פלוס של עולם הג&#39;רזים - מאוספי מועדונים ועד נבחרות. היכנס עכשיו להלביש את התשוקה שלך!
 
 ### תרבות ג'רזי
-https://top10-b4c237f1.zappy5.app/jersey-culture
+https://example.com/jersey-culture
 כל מה שרצית לדעת על תרבות חולצות הכדורגל: מההיסטוריה ועד האוספים הנדירים. גלה את הסיפורים מאחורי טופ 10 דיסני פלוס של עיצובי הג&#39;רזים האייקוניים. כנס למסע מרתק!
 
 ### סיפורי אוהדים
-https://top10-b4c237f1.zappy5.app/fan-stories
+https://example.com/fan-stories
 האוהדים משתפים את רגעי השיא עם חולצות הכדורגל האהובות עליהם. קרא סיפורים מרגשים שמביאים את טופ 10 דיסני פלוס לחיים. שתף גם את הסיפור שלך עוד היום!
 
 ### אודות
-https://top10-b4c237f1.zappy5.app/about
+https://example.com/about
 הסיפור שלנו מתחיל באהבה לכדורגל ורצון להביא לכם את הטופ 10 דיסני פלוס של חולצות הספורט. גלו מי אנחנו, מה מניע אותנו, ולמה אנחנו הבחירה מספר אחת לאוהדים אמיתיים.
 
 ### צור קשר
-https://top10-b4c237f1.zappy5.app/contact
+https://example.com/contact
 יש שאלה על הג&#39;רזי המושלם? צרו קשר עם צוות המומחים שלנו ונעזור לכם למצוא את טופ 10 דיסני פלוס של החולצות המותאמות אישית. פנו עכשיו ונחזור אליכם במהירות!
 
 ### Products
-https://top10-b4c237f1.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Top10
 
 ### Cart
-https://top10-b4c237f1.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://top10-b4c237f1.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://top10-b4c237f1.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://top10-b4c237f1.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://top10-b4c237f1.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://top10-b4c237f1.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Top10
 
 ### Category
-https://top10-b4c237f1.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Top10
 
 ### תודה - Top10
-https://top10-b4c237f1.zappy5.app/thank-you
+https://example.com/thank-you
 Top10 - תודה - Top10
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://top10-b4c237f1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://top10-b4c237f1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://top10-b4c237f1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://top10-b4c237f1.zappy5.app/sitemap.xml
-- Robots: https://top10-b4c237f1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://top10-b4c237f1.zappy5.app/llms-full.txt
-- Products (JSON): https://top10-b4c237f1.zappy5.app/products.json
-- Products (Google Merchant RSS): https://top10-b4c237f1.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
