@@ -83,11 +83,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### RETRO
-https://example.com/product/retro-a6htqi
+https://example.com/product/retro-ccqq8g
 - Price: 99.00 ILS (sale, was 150.00 ILS)
 - Availability: In stock
-- Brand: AC Milan retro
-- Image: https://example.com/assets/product-1784997965885-7euvfd.webp
+- Description: Brazil Home Retro Jersey 2004
+- Image: https://example.com/assets/product-1784999501591-khem2.webp
 
 ---
 
