@@ -83,7 +83,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### RETRO
-https://example.com/product/retro-ccqq8g
+https://example.com/product/retro-gjxsgf
 - Price: 99.00 ILS (sale, was 150.00 ILS)
 - Availability: In stock
 - Description: Brazil Home Retro Jersey 2004
