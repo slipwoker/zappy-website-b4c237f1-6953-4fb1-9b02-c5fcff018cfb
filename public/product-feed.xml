@@ -4,14 +4,14 @@
     <title>Top10</title>
     <link>https://example.com</link>
     <description>Product feed for Top10</description>
-    <lastBuildDate>Sun, 26 Jul 2026 16:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 16:31:16 GMT</lastBuildDate>
     <item>
       <g:id>ce33356f-3a2f-4990-8e89-ba61ee30300e</g:id>
       <g:title>RETRO</g:title>
       <g:description>Milan retro</g:description>
-      <g:link>https://example.com/product/retro-vfkvh3</g:link>
-      <g:image_link>https://example.com/assets/product-1785062085442-9hnhhp.webp</g:image_link>
-      <g:additional_image_link>https://example.com/assets/product-1785062091166-q3ll2p.webp</g:additional_image_link>
+      <g:link>https://example.com/product/retro-jqz6mo</g:link>
+      <g:image_link>https://example.com/assets/product-1785083074526-d8m4ny.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1785083080247-15z0bg.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>150.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>

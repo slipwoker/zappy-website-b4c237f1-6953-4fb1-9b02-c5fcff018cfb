@@ -83,11 +83,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### RETRO
-https://example.com/product/retro-vfkvh3
+https://example.com/product/retro-jqz6mo
 - Price: 99.00 ILS (sale, was 150.00 ILS)
 - Availability: In stock
 - Description: Milan retro
-- Image: https://example.com/assets/product-1785062085442-9hnhhp.webp
+- Image: https://example.com/assets/product-1785083074526-d8m4ny.webp
 
 ---
 

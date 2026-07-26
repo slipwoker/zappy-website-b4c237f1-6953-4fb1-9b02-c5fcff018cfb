@@ -15217,6 +15217,58 @@ if (document.readyState === 'complete') {
 })();
 
 
+/* Added Component Script */
+document.addEventListener('DOMContentLoaded', function() {
+  const thumbs = document.querySelectorAll('.gallery-thumb');
+  const mainImg = document.querySelector('.gallery-main-img');
+
+  if (!thumbs.length || !mainImg) return;
+
+  thumbs.forEach(thumb => {
+    thumb.addEventListener('click', function() {
+      // Remove active from all
+      thumbs.forEach(t => t.classList.remove('active'));
+      // Add active to clicked
+      this.classList.add('active');
+
+      // Swap main image src
+      const thumbImg = this.querySelector('.thumb-img');
+      if (thumbImg) {
+        mainImg.src = thumbImg.src;
+        mainImg.alt = thumbImg.alt;
+      }
+    });
+  });
+
+  // Quantity selector logic
+  const qtyInput = document.querySelector('.qty-input');
+  const qtyMinus = document.querySelector('.qty-minus');
+  const qtyPlus = document.querySelector('.qty-plus');
+
+  if (qtyInput && qtyMinus && qtyPlus) {
+    qtyMinus.addEventListener('click', () => {
+      let val = parseInt(qtyInput.value) || 1;
+      if (val > 1) {
+        qtyInput.value = val - 1;
+      }
+    });
+
+    qtyPlus.addEventListener('click', () => {
+      let val = parseInt(qtyInput.value) || 1;
+      if (val < 10) {
+        qtyInput.value = val + 1;
+      }
+    });
+
+    qtyInput.addEventListener('change', () => {
+      let val = parseInt(qtyInput.value);
+      if (isNaN(val) || val < 1) qtyInput.value = 1;
+      if (val > 10) qtyInput.value = 10;
+    });
+  }
+});
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {

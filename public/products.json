@@ -1,19 +1,19 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T16:24:26.055Z",
+  "generated_at": "2026-07-26T16:31:16.459Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "ce33356f-3a2f-4990-8e89-ba61ee30300e",
-      "slug": "retro-vfkvh3",
+      "slug": "retro-jqz6mo",
       "name": "RETRO",
       "name_translations": {
         "en": "RETRO",
         "he": "רטרו"
       },
-      "description": "<p>Milan retro</p><p><br></p><p><br></p>",
+      "description": "<p>Milan retro</p><p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -22,14 +22,14 @@
       "sale_price": 99,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1785062085442-9hnhhp.webp",
-        "https://example.com/assets/product-1785062091166-q3ll2p.webp"
+        "https://example.com/assets/product-1785083074526-d8m4ny.webp",
+        "https://example.com/assets/product-1785083080247-15z0bg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/retro-vfkvh3",
+      "url": "https://example.com/product/retro-jqz6mo",
       "categories": [],
-      "updated_at": "2026-07-26T10:35:16.239Z"
+      "updated_at": "2026-07-26T16:24:52.393Z"
     }
   ]
 }
