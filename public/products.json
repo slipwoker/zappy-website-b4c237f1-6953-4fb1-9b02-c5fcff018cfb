@@ -1,19 +1,19 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T10:34:33.354Z",
+  "generated_at": "2026-07-26T16:14:53.857Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "ce33356f-3a2f-4990-8e89-ba61ee30300e",
-      "slug": "retro-gjxsgf",
+      "slug": "retro-vfkvh3",
       "name": "RETRO",
       "name_translations": {
         "en": "RETRO",
         "he": "רטרו"
       },
-      "description": "<p>Brazil Home Retro Jersey 2004</p>",
+      "description": "<p>Milan retro</p><p><br></p><p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -22,14 +22,14 @@
       "sale_price": 99,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1784999501591-khem2.webp",
-        "https://example.com/assets/product-1784999507813-qwmln.webp"
+        "https://example.com/assets/product-1785062085442-9hnhhp.webp",
+        "https://example.com/assets/product-1785062091166-q3ll2p.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/retro-gjxsgf",
+      "url": "https://example.com/product/retro-vfkvh3",
       "categories": [],
-      "updated_at": "2026-07-26T10:32:34.791Z"
+      "updated_at": "2026-07-26T10:35:16.239Z"
     }
   ]
 }
