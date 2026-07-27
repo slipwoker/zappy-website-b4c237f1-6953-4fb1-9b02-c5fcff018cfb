@@ -103,8 +103,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/retro-jqz6mo</loc>
-    <lastmod>2026-07-26</lastmod>
+    <loc>https://example.com/product/milan-retro-sxptyj</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://example.com/product/brazil-retro-xc6two</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

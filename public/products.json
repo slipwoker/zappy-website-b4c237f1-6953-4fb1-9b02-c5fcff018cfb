@@ -1,19 +1,45 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T10:45:41.873Z",
+  "generated_at": "2026-07-27T10:58:12.907Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
     {
-      "id": "ce33356f-3a2f-4990-8e89-ba61ee30300e",
-      "slug": "retro-jqz6mo",
-      "name": "RETRO",
+      "id": "517e8655-8691-4e60-928b-f6421268255c",
+      "slug": "milan-retro-sxptyj",
+      "name": "Milan Retro ",
       "name_translations": {
-        "en": "RETRO",
-        "he": "רטרו"
+        "en": "Milan Retro ",
+        "he": "מילאן רטרו"
       },
-      "description": "<p>Milan retro</p><p><br></p>",
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 150,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1785149603068-3rbe1j.webp",
+        "https://example.com/assets/product-1785149609389-flo1y.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/milan-retro-sxptyj",
+      "categories": [],
+      "updated_at": "2026-07-27T10:54:20.497Z"
+    },
+    {
+      "id": "ce33356f-3a2f-4990-8e89-ba61ee30300e",
+      "slug": "brazil-retro-xc6two",
+      "name": "Brazil Retro",
+      "name_translations": {
+        "en": "Brazil Retro",
+        "he": "ברזיל רטרו"
+      },
+      "description": "<p>Brazil Retro</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -27,9 +53,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/retro-jqz6mo",
+      "url": "https://example.com/product/brazil-retro-xc6two",
       "categories": [],
-      "updated_at": "2026-07-26T16:24:52.393Z"
+      "updated_at": "2026-07-27T10:55:25.012Z"
     }
   ]
 }

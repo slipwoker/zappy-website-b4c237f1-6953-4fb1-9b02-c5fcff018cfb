@@ -4,12 +4,26 @@
     <title>Top10</title>
     <link>https://example.com</link>
     <description>Product feed for Top10</description>
-    <lastBuildDate>Mon, 27 Jul 2026 10:45:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:58:12 GMT</lastBuildDate>
+    <item>
+      <g:id>517e8655-8691-4e60-928b-f6421268255c</g:id>
+      <g:title>Milan Retro </g:title>
+      <g:description>Milan Retro</g:description>
+      <g:link>https://example.com/product/milan-retro-sxptyj</g:link>
+      <g:image_link>https://example.com/assets/product-1785149603068-3rbe1j.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1785149609389-flo1y.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Top10</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>ce33356f-3a2f-4990-8e89-ba61ee30300e</g:id>
-      <g:title>RETRO</g:title>
-      <g:description>Milan retro</g:description>
-      <g:link>https://example.com/product/retro-jqz6mo</g:link>
+      <g:title>Brazil Retro</g:title>
+      <g:description>Brazil Retro</g:description>
+      <g:link>https://example.com/product/brazil-retro-xc6two</g:link>
       <g:image_link>https://example.com/assets/product-1785083074526-d8m4ny.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1785083080247-15z0bg.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
